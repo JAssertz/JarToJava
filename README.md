@@ -5,9 +5,10 @@ This is a simple program that converts a .jar file back into .java files using t
 # Requirements
 The CFR Decompiler
    - https://www.benf.org/other/cfr/
-The ability to use the jar command in cmd
-   - If you don't have it use the following jdk download any version you want
+   
+The ability to use the jar command in cmd, if you don't have it use the following jdk download any version you want
    - https://adoptium.net/
+
 Python
    - https://www.python.org/
 
