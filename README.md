@@ -1,8 +1,8 @@
-###What does this do ?
+# What does this do ?
 
 This is a simple program that converts a .jar file back into .java files using the cfr decompiler and python to automate the process
 
-###Requirements
+# Requirements
 The CFR Decompiler
    - https://www.benf.org/other/cfr/
 The ability to use the jar command in cmd
@@ -11,7 +11,7 @@ The ability to use the jar command in cmd
 Python
    - https://www.python.org/
 
-###How to use
+# How to use
 1. Open the script using python
 2. Drag the jar that you want to source to into the cmd
 3. Drag the cfr jar into the cmd the same way as the source jar
